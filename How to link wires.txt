@@ -1,0 +1,14 @@
+arduino<----------->WiFi module
+3.3V		3V3
+5V		EN
+GND		GND
+8(RX)		TX
+9(TX)		RX
+		
+arduino<----------->servo		
+10		PWM Signal line£¨Orange£©
+5V		5V
+GND		GND
+
+arduino<----------->relay
+13		IN
